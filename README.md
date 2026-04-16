@@ -1,4 +1,4 @@
-🎯 Automata & Compiler Visualizer
+** Automata & Compiler Visualizer**
 
 A full-stack educational web application for visualizing and working with Finite Automata (NFA, DFA) and Context-Free Grammars (CFG).
 
